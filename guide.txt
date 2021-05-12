@@ -1,0 +1,32 @@
+you can type:
+
+hi
+bye
+exit
+how are you
+who made you
+how can you help me
+help me
+who are  you
+who am i
+nice
+
+=========================================================
+
+play music/song
+search << something >>
+google << something >>
+
+=========================================================
+
+add << mathematical problem >>
+sum << mathematical problem >>
+difference << mathematical problem >>
+subtract << mathematical problem >>
+solve << mathematical problem >>
+divide << mathematical problem >>
+multiply << mathematical problem >>
+
+
+wt is size of ur memory
+open smthng
